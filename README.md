@@ -1,4 +1,1 @@
-SOMA
-====
-
-School of Machines Making Make-Believe
+#School of Machines, Making and Make-Believe
